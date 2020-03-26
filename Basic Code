@@ -1,0 +1,14 @@
+<html>
+<head>
+<title> Home Page </title>
+</head>
+<body>
+<h1> Menu </h1>
+Do you wish to go to Lambto College Website <a href="https://moodle.cestarcollege.com/moodle/" target="_blank">Lambton College </a> <br><br>
+<hr/>    
+Do you wish to go to Google page <a href="https://www.google.com/" target="_blank"> Google </a>
+</body>
+</html>
+*******************************************************************************************************************************************
+"This is simple code created for testing my knowledge in HTML, If you wish to run this just copy the code in a text editor and save it with 
+.html as file name"
