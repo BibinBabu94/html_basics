@@ -28,6 +28,7 @@ background-size:cover;
 </style>
 </head>
 <body>
+<h1 style=color:white "text-align:center";> This is a begining of something new </h1>             
 <p style=color:white> Below is the link to GitHub Profile </p>
 <a href="https://github.com/BibinBabu94"> GitHub </a>
 </body>
